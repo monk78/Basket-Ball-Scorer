@@ -7,6 +7,6 @@ iv)After that convert it into .apk file.<br>
 In case you want help regarding .apk conversion follow the link:https://stackoverflow.com/questions/11034419/how-to-convert-from-my-android-project-to-apk-file
 
 ## Tools 
- Android SDK v23
- Android Build Tools v23.0.2
- Android Support Repository v23.4.0
+ Android SDK v23 <br>
+ Android Build Tools v23.0.2<br>
+ Android Support Repository v23.4.0 <br>
